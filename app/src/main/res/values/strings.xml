@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyViewAndViewGroup</string>
+    <string name="content_text">The Redmi Note 10 Pro ships within a regular paper box, and it packs everything you may need but a pair of headphones. The retail bundle contains a 33W power adapter and a 3A-rated USB-A-to-C cable.You also get a transparent silicone case with a cover lid for the USB-C port. And you will find one thin screen protector.</string>
+    <string name="content_specs_display">6.67 inches\n
+    FHD AMOLED at 395ppi\n
+    2.5D Corning® Gorilla® Glass 5</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">5,020 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+</resources>
